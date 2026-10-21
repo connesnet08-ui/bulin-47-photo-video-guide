@@ -1,8 +1,14 @@
-# Bulin 47 AI Photo to Video Guide
+# Bulin 47 AI Photo to Video Guide (2026)
 
 Make a Bulin 47 freestyle video from one photo, with the original soundtrack. This guide covers photo selection, the hosted generator, Google sign-in, purchase and MP4 download.
 
 Published by the operator of [bulin47ai.space](https://bulin47ai.space/?utm_source=github&utm_medium=guide&utm_campaign=english_tutorial_20261021). This is product documentation for that hosted service. It contains no model weights, generation API or application source code.
+
+## Compare Bulin 47 AI video generators
+
+Read our [2026 tool comparison](BULIN-47-AI-TOOLS-COMPARISON-2026.md): five services, published video formats, total purchase amounts, account requirements and primary sources. The document is written by our service operator and lists our service first. It is a comparison of published offers, not an independent ranking or a paid-output benchmark.
+
+[Open the full comparison with our 15-second sample](https://bulin47ai.space/bulin-47-ai-tools-comparison?utm_source=github&utm_medium=comparison&utm_campaign=gefei_geo_20261021).
 
 ## See the input and result
 
